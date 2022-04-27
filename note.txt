@@ -1,0 +1,27 @@
+<br />
+            
+            <asp:Button ID="Button1" runat="server" Text="Enter..." style="width:85px" onclick="Button1_Click" />
+            <hr />
+            
+            <h3> Results: </h3>
+            <span runat="server" id="changed_text" />
+            
+         </div>
+      </form>
+      
+   </body>
+   
+</html><br />
+            
+            <asp:Button ID="Button1" runat="server" Text="Enter..." style="width:85px" onclick="Button1_Click" />
+            <hr />
+            
+            <h3> Results: </h3>
+            <span runat="server" id="changed_text" />
+            
+         </div>
+      </form>
+      
+   </body>
+   
+</html>
